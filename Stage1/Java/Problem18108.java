@@ -1,15 +1,13 @@
-package Stage1;
+package Stage1.Java;
 
 import java.util.Scanner;
 
-public class Problem1001 {
+public class Problem18108 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        int A = sc.nextInt();
-        int B = sc.nextInt();
-
-        System.out.println(A - B);
+        int y = sc.nextInt();
+        System.out.println(y - 543);
 
         sc.close();
     }

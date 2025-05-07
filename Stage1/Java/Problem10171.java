@@ -1,4 +1,4 @@
-package Stage1;
+package Stage1.Java;
 
 public class Problem10171 {
     public static void main(String[] args) {

@@ -1,13 +1,15 @@
-package Stage1;
+package Stage1.Java;
 
 import java.util.Scanner;
 
-public class Problem10926 {
+public class Problem1001 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        String id = sc.nextLine();
-        System.out.println(id + "??!");
+        int A = sc.nextInt();
+        int B = sc.nextInt();
+
+        System.out.println(A - B);
 
         sc.close();
     }
