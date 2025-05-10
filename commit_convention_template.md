@@ -22,7 +22,7 @@ solve: Baekjoon Stage X
 ## ✅ Full Commit Example
 
 ```
-solve: Baekjoon Stage 1 - I/O and Arithmetic
+solve: Baekjoon Stage 1
 
 🎯 Stage: 1 - I/O and Arithmetic  
 📝 Problems Solved: 2557, 1000, 1001, 10998, 1008, 10869, 10926, 18108, 10430, 2588  
